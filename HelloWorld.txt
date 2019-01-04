@@ -1,0 +1,6 @@
+class HEloWorld{
+
+main(){
+Sysout("HelloWorld");
+}
+}
