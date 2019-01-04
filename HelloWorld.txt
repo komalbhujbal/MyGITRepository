@@ -6,8 +6,11 @@ class HEloWorld{
     }
 
 
-   public static void main(String args[]){
+   public static void main(String args[])
           HelloWor.myMethod();
          
+=======
+          HelloWorld obj = new HelloWorld();
+          obj.myMethod();
 }
 }
