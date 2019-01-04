@@ -7,6 +7,7 @@ class HEloWorld{
 
 
    public static void main(String args[]){
-          System.out.println("HelloWorld....welcome to git...");
+          HelloWorld obj = new HelloWorld();
+          obj.myMethod();
 }
 }
